@@ -1,0 +1,17 @@
+{
+  "name": "Config Test",
+  "applicationUrl": "http://127.0.0.1:5500/index.htm",
+  "clickSave": false,
+  "fields": [
+    {
+      "name": "Insalubridade",
+      "xpath": "//*[@id=\"codigoInsalubridade\"]",
+      "type": "Select"
+    },
+    {
+      "name": "Orientação",
+      "xpath": "//*[@id=\"orientacao\"]",
+      "type": "Text"
+    }
+  ]
+}
